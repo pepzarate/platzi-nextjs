@@ -1,7 +1,7 @@
 {
   "/about": "pages/about.html",
   "/": "pages/index.html",
-  "/product/[productId]": "pages/product/[productId].html",
+  "/user/[productId]": "pages/user/[productId].html",
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
